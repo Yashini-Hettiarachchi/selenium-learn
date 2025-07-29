@@ -21,6 +21,8 @@ public class TextBoxExample {
 
 
     }
+    //chrome options change version; version can be changed using pom also
+    //chrome options maximize screen size and without showing browser running also can show test passes and faliures
     @Test
     public void textBox(){
         //if id duplicate should go with xpath
